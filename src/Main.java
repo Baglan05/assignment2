@@ -6,11 +6,11 @@ public class Main {
         ArrayList<Person> peopleList = new ArrayList<>();
 
         // Create instances of employees and students
-        Employee employee1 = new Employee("John", "Lennon", "Manager", 27045.78);
-        Employee employee2 = new Employee("George", "Harrison", "Developer", 50000.0);
+        Employee employee1 = new Employee("Aibek", "Orazov", "Doctor", 885262.0);
+        Employee employee2 = new Employee("Kane", "Harry", "Footballer", 31800.0);
 
-        Student student1 = new Student("Ringo", "Starr", 2.08);
-        Student student2 = new Student("Paul", "McCartney", 4.0);
+        Student student1 = new Student("Lionel", "Messi", 2.08);
+        Student student2 = new Student("Wane", "Rooney", 3.65);
 
         peopleList.add(employee1);
         peopleList.add(employee2);
